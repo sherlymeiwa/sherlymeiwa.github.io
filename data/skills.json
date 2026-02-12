@@ -8,7 +8,7 @@
           "name": "Pile Design",
           "icon": "building",
           "experience": "6+ years",
-          "technologies": ["Piled Raft", "Deep Foundation", "Bored Piles", "Driven Piles"],
+          "expertise": ["Piled Raft", "Deep Foundation", "Bored Piles", "Driven Piles"],
           "capabilities": [
             "Expert in pile foundation design and analysis",
             "Designed piled raft foundation systems for dynamic loads",
@@ -22,7 +22,7 @@
           "name": "PLAXIS 2D",
           "icon": "chart",
           "experience": "6+ years",
-          "technologies": ["Finite Element Method", "Soil Modeling", "Deformation Analysis"],
+          "expertise": ["Finite Element Method", "Soil Modeling", "Deformation Analysis"],
           "capabilities": [
             "Advanced proficiency in PLAXIS 2D for geotechnical analysis",
             "Conducting deformation and stability analysis",
@@ -36,7 +36,7 @@
           "name": "Dynamic Analysis",
           "icon": "activity",
           "experience": "5+ years",
-          "technologies": ["Dynamic Loading", "Soil-Structure Interaction", "Seismic Analysis"],
+          "expertise": ["Dynamic Loading", "Soil-Structure Interaction", "Seismic Analysis"],
           "capabilities": [
             "Specialized in dynamic analysis of foundation systems",
             "Research experience in soil-structure interaction under dynamic loads",
@@ -50,7 +50,7 @@
           "name": "ABAQUS 3D",
           "icon": "box",
           "experience": "4+ years",
-          "technologies": ["3D Finite Element", "Advanced Modeling", "Nonlinear Analysis"],
+          "expertise": ["3D Finite Element", "Advanced Modeling", "Nonlinear Analysis"],
           "capabilities": [
             "Proficient in 3D modeling using ABAQUS",
             "Advanced finite element analysis capabilities",
@@ -70,7 +70,7 @@
           "name": "Laboratory Testing",
           "icon": "flask",
           "experience": "7+ years",
-          "technologies": ["Soil Mechanics", "Triaxial Test", "Consolidation Test", "Direct Shear"],
+          "expertise": ["Soil Mechanics", "Triaxial Test", "Consolidation Test", "Direct Shear"],
           "capabilities": [
             "Expert in soil mechanics laboratory testing",
             "Former Head of Soil Mechanics Laboratory",
@@ -90,7 +90,7 @@
           "name": "Port Infrastructure",
           "icon": "anchor",
           "experience": "3+ years",
-          "technologies": ["Port Design", "Marine Geotechnics", "Coastal Engineering"],
+          "expertise": ["Port Design", "Marine Geotechnics", "Coastal Engineering"],
           "capabilities": [
             "Team Leader for Depapre Port detailed engineering design",
             "Team Leader for Lerokis Port detailed engineering design",
@@ -104,7 +104,7 @@
           "name": "Soil Improvement",
           "icon": "layers",
           "experience": "6+ years",
-          "technologies": ["Vertical Drain (PVD)", "Ground Improvement", "Soft Soil Treatment"],
+          "expertise": ["Vertical Drain (PVD)", "Ground Improvement", "Soft Soil Treatment"],
           "capabilities": [
             "Thesis research on soil improvement using PVD",
             "Experience in soft soil treatment methods",
@@ -124,7 +124,7 @@
           "name": "Project Leadership",
           "icon": "users",
           "experience": "4+ years",
-          "technologies": ["Team Management", "Project Coordination", "Technical Leadership"],
+          "expertise": ["Team Management", "Project Coordination", "Technical Leadership"],
           "capabilities": [
             "Led detailed engineering design teams for major port projects",
             "Coordinated multidisciplinary engineering teams",
@@ -137,7 +137,7 @@
           "name": "Teaching & Training",
           "icon": "book",
           "experience": "3+ years",
-          "technologies": ["Curriculum Development", "Lecturing", "Mentoring"],
+          "expertise": ["Curriculum Development", "Lecturing", "Mentoring"],
           "capabilities": [
             "Lectured geotechnical courses at UNIKOM",
             "Developed curriculum for civil engineering program",
@@ -151,7 +151,7 @@
           "name": "Certified Professional",
           "icon": "award",
           "experience": "7+ years",
-          "technologies": ["HATTI Certification", "LPJK Accreditation", "G1 Level"],
+          "expertise": ["HATTI Certification", "LPJK Accreditation", "G1 Level"],
           "capabilities": [
             "Ahli Geoteknik Madya (G1) certified by HATTI/LPJK",
             "Professional certification issued and renewed in 2018 and 2024",

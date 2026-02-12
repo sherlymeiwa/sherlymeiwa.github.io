@@ -17,7 +17,7 @@
         "Led geotechnical analysis for mining feasibility studies including Red Mud Area and Smelter Area Phase II Alumina projects",
         "Conducted permeability studies for dam projects in Lampung"
       ],
-      "technologies": ["Geotechnical Analysis", "Soil Investigation", "Foundation Design", "Laboratory Testing"]
+      "expertise": ["Geotechnical Analysis", "Soil Investigation", "Foundation Design", "Laboratory Testing"]
     },
     {
       "id": "exp-1",
@@ -34,7 +34,7 @@
         "Conducting soil investigation and foundation design",
         "Providing expert consultation on geotechnical engineering"
       ],
-      "technologies": ["Geotechnical Analysis", "Foundation Design", "Soil Mechanics"]
+      "expertise": ["Geotechnical Analysis", "Foundation Design", "Soil Mechanics"]
     },
     {
       "id": "exp-2",
@@ -51,7 +51,7 @@
         "Developing curriculum for civil engineering program",
         "Mentoring students in geotechnical design projects"
       ],
-      "technologies": ["Teaching", "Geotechnical Engineering", "Civil Engineering"]
+      "expertise": ["Teaching", "Geotechnical Engineering", "Civil Engineering"]
     },
     {
       "id": "exp-3",
@@ -68,7 +68,7 @@
         "Team Leader for Detailed Engineering Design of Lerokis Port, Maluku Province (2021-2022)",
         "Provided geotechnical expertise for port infrastructure projects"
       ],
-      "technologies": ["Port Design", "Geotechnical Engineering", "Project Leadership"]
+      "expertise": ["Port Design", "Geotechnical Engineering", "Project Leadership"]
     },
     {
       "id": "exp-4",
@@ -85,7 +85,7 @@
         "Conducted geotechnical investigations and analysis",
         "Developed foundation design recommendations"
       ],
-      "technologies": ["Geotechnical Analysis", "Mining Engineering", "Foundation Design"]
+      "expertise": ["Geotechnical Analysis", "Mining Engineering", "Foundation Design"]
     },
     {
       "id": "exp-5",
@@ -102,7 +102,7 @@
         "Supervised soil mechanics testing and quality control",
         "Managed laboratory team and ensured test accuracy"
       ],
-      "technologies": ["Soil Mechanics", "Laboratory Testing", "Quality Control"]
+      "expertise": ["Soil Mechanics", "Laboratory Testing", "Quality Control"]
     }
   ]
 }
