@@ -1,0 +1,44 @@
+{
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "Institut Teknologi Bandung (ITB)",
+      "degree": "Master of Engineering",
+      "field": "Civil Engineering - Geotechnical Engineering",
+      "location": "Bandung, Indonesia",
+      "startDate": "2015-08",
+      "endDate": "2018-12",
+      "gpa": "3.25/4",
+      "achievements": [
+        "Thesis on soil-structure interaction in piled raft foundation systems under dynamic loads",
+        "Conducted advanced research in geotechnical engineering"
+      ]
+    },
+    {
+      "id": "edu-2",
+      "institution": "Institut Teknologi Nasional (ITENAS)",
+      "degree": "Bachelor of Engineering",
+      "field": "Civil Engineering",
+      "location": "Bandung, Indonesia",
+      "startDate": "2010-08",
+      "endDate": "2015-07",
+      "gpa": "3.54/4",
+      "achievements": [
+        "Final thesis on soil improvement methods using Vertical drain (PVD)",
+        "Graduated with good academic standing"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-g1-2024",
+      "name": "Ahli Geoteknik Madya (G1)",
+      "issuer": "HATTI (Indonesian Soil Engineering Association) - LPJK",
+      "date": "2018-01",
+      "expiryDate": "2028-01",
+      "credentialId": null,
+      "visible": true,
+      "description": "Intermediate-level geotechnical engineering certification. Originally issued in 2018 and renewed in 2024."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "Detailed Engineering Design of Depapre Port",
+      "description": "Complete detailed engineering design for port infrastructure in Papua Province.",
+      "longDescription": "Led the team as Team Leader and Geotechnical Expert for the detailed engineering design of Depapre Port in Papua Province. The project included comprehensive geotechnical analysis, foundation design, and port infrastructure planning.",
+      "technologies": ["Geotechnical Design", "Port Engineering", "Foundation Design"],
+      "organization": "PT BAHARI JAYA SEJAHTERA",
+      "startDate": "2022-01",
+      "endDate": "2024-12",
+      "featured": true,
+      "category": "infrastructure"
+    },
+    {
+      "id": "project-2",
+      "title": "Detailed Engineering Design of Lerokis Port",
+      "description": "Complete detailed engineering design for port infrastructure in Maluku Province.",
+      "longDescription": "Led the team as Team Leader and Geotechnical Expert for the detailed engineering design of Lerokis Port in Maluku Province. The project involved comprehensive geotechnical investigation and port infrastructure design.",
+      "technologies": ["Geotechnical Design", "Port Engineering", "Foundation Design"],
+      "organization": "PT BAHARI JAYA SEJAHTERA",
+      "startDate": "2021-01",
+      "endDate": "2022-12",
+      "featured": true,
+      "category": "infrastructure"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "experiences": [
+    {
+      "id": "exp-1",
+      "company": "PT LAPI ITB",
+      "position": "Geotechnical Engineer",
+      "location": "Indonesia",
+      "type": "full-time",
+      "startDate": "2021-01",
+      "endDate": null,
+      "current": true,
+      "description": "Geotechnical Engineer performing design and analysis for various projects including mining construction and infrastructure development.",
+      "achievements": [
+        "Performing geotechnical design and analysis for various projects",
+        "Conducting soil investigation and foundation design",
+        "Providing expert consultation on geotechnical engineering"
+      ],
+      "technologies": ["Geotechnical Analysis", "Foundation Design", "Soil Mechanics"]
+    },
+    {
+      "id": "exp-2",
+      "company": "Universitas Komputer Indonesia (UNIKOM)",
+      "position": "Lecturer",
+      "location": "Bandung, Indonesia",
+      "type": "part-time",
+      "startDate": "2019-01",
+      "endDate": "2021-12",
+      "current": false,
+      "description": "Teaching geotechnical courses in Civil Engineering department, sharing industry experience with students.",
+      "achievements": [
+        "Teaching geotechnical engineering courses",
+        "Developing curriculum for civil engineering program",
+        "Mentoring students in geotechnical design projects"
+      ],
+      "technologies": ["Teaching", "Geotechnical Engineering", "Civil Engineering"]
+    },
+    {
+      "id": "exp-3",
+      "company": "PT BAHARI JAYA SEJAHTERA",
+      "position": "Team Leader & Geotechnical Expert",
+      "location": "Indonesia",
+      "type": "full-time",
+      "startDate": "2021-01",
+      "endDate": "2024-12",
+      "current": false,
+      "description": "Led detailed engineering design for port infrastructure projects in Papua and Maluku provinces.",
+      "achievements": [
+        "Team Leader for Detailed Engineering Design of Depapre Port, Papua Province (2022-2024)",
+        "Team Leader for Detailed Engineering Design of Lerokis Port, Maluku Province (2021-2022)",
+        "Provided geotechnical expertise for port infrastructure projects"
+      ],
+      "technologies": ["Port Design", "Geotechnical Engineering", "Project Leadership"]
+    },
+    {
+      "id": "exp-4",
+      "company": "PT LAPI ITB",
+      "position": "Geotechnical Engineer",
+      "location": "Bandung, Indonesia",
+      "type": "full-time",
+      "startDate": "2019-01",
+      "endDate": "2021-01",
+      "current": false,
+      "description": "Geotechnical Engineer performing design and analysis for various projects including mining construction.",
+      "achievements": [
+        "Performed design and analysis for mining construction projects",
+        "Conducted geotechnical investigations and analysis",
+        "Developed foundation design recommendations"
+      ],
+      "technologies": ["Geotechnical Analysis", "Mining Engineering", "Foundation Design"]
+    },
+    {
+      "id": "exp-5",
+      "company": "PT ZIFA ENGINEERING",
+      "position": "Head of Soil Mechanics Laboratory",
+      "location": "Indonesia",
+      "type": "full-time",
+      "startDate": "2017-01",
+      "endDate": "2019-01",
+      "current": false,
+      "description": "Responsible for supervision, inspection, and soil mechanics test results in the laboratory.",
+      "achievements": [
+        "Led laboratory operations and testing procedures",
+        "Supervised soil mechanics testing and quality control",
+        "Managed laboratory team and ensured test accuracy"
+      ],
+      "technologies": ["Soil Mechanics", "Laboratory Testing", "Quality Control"]
+    }
+  ]
+}

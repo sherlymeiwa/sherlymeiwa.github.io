@@ -1,0 +1,167 @@
+{
+  "categories": [
+    {
+      "id": "geotechnical",
+      "name": "Geotechnical Engineering",
+      "skills": [
+        {
+          "name": "Pile Design",
+          "icon": "building",
+          "experience": "6+ years",
+          "technologies": ["Piled Raft", "Deep Foundation", "Bored Piles", "Driven Piles"],
+          "capabilities": [
+            "Expert in pile foundation design and analysis",
+            "Designed piled raft foundation systems for dynamic loads",
+            "Extensive experience in deep foundation engineering"
+          ],
+          "relatedExperience": ["exp-1", "exp-3"],
+          "relatedEducation": ["edu-1"],
+          "proficiency": 90
+        },
+        {
+          "name": "PLAXIS 2D",
+          "icon": "chart",
+          "experience": "6+ years",
+          "technologies": ["Finite Element Method", "Soil Modeling", "Deformation Analysis"],
+          "capabilities": [
+            "Advanced proficiency in PLAXIS 2D for geotechnical analysis",
+            "Conducting deformation and stability analysis",
+            "Modeling complex soil-structure interactions"
+          ],
+          "relatedExperience": ["exp-1", "exp-3"],
+          "relatedEducation": ["edu-1"],
+          "proficiency": 90
+        },
+        {
+          "name": "Dynamic Analysis",
+          "icon": "activity",
+          "experience": "5+ years",
+          "technologies": ["Dynamic Loading", "Soil-Structure Interaction", "Seismic Analysis"],
+          "capabilities": [
+            "Specialized in dynamic analysis of foundation systems",
+            "Research experience in soil-structure interaction under dynamic loads",
+            "Analysis of structures subjected to dynamic forces"
+          ],
+          "relatedExperience": ["exp-1"],
+          "relatedEducation": ["edu-1"],
+          "proficiency": 70
+        },
+        {
+          "name": "ABAQUS 3D",
+          "icon": "box",
+          "experience": "4+ years",
+          "technologies": ["3D Finite Element", "Advanced Modeling", "Nonlinear Analysis"],
+          "capabilities": [
+            "Proficient in 3D modeling using ABAQUS",
+            "Advanced finite element analysis capabilities",
+            "Nonlinear analysis of geotechnical problems"
+          ],
+          "relatedExperience": ["exp-1"],
+          "relatedEducation": ["edu-1"],
+          "proficiency": 70
+        }
+      ]
+    },
+    {
+      "id": "laboratory",
+      "name": "Laboratory & Testing",
+      "skills": [
+        {
+          "name": "Laboratory Testing",
+          "icon": "flask",
+          "experience": "7+ years",
+          "technologies": ["Soil Mechanics", "Triaxial Test", "Consolidation Test", "Direct Shear"],
+          "capabilities": [
+            "Expert in soil mechanics laboratory testing",
+            "Former Head of Soil Mechanics Laboratory",
+            "Supervision and quality control of test results"
+          ],
+          "relatedExperience": ["exp-5"],
+          "relatedEducation": ["edu-1", "edu-2"],
+          "proficiency": 90
+        }
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure Design",
+      "skills": [
+        {
+          "name": "Port Infrastructure",
+          "icon": "anchor",
+          "experience": "3+ years",
+          "technologies": ["Port Design", "Marine Geotechnics", "Coastal Engineering"],
+          "capabilities": [
+            "Team Leader for Depapre Port detailed engineering design",
+            "Team Leader for Lerokis Port detailed engineering design",
+            "Geotechnical expert for port infrastructure projects"
+          ],
+          "relatedExperience": ["exp-3"],
+          "relatedEducation": ["edu-1"],
+          "proficiency": 85
+        },
+        {
+          "name": "Soil Improvement",
+          "icon": "layers",
+          "experience": "6+ years",
+          "technologies": ["Vertical Drain (PVD)", "Ground Improvement", "Soft Soil Treatment"],
+          "capabilities": [
+            "Thesis research on soil improvement using PVD",
+            "Experience in soft soil treatment methods",
+            "Design and implementation of ground improvement solutions"
+          ],
+          "relatedExperience": ["exp-1", "exp-3"],
+          "relatedEducation": ["edu-1", "edu-2"],
+          "proficiency": 85
+        }
+      ]
+    },
+    {
+      "id": "professional",
+      "name": "Professional Skills",
+      "skills": [
+        {
+          "name": "Project Leadership",
+          "icon": "users",
+          "experience": "4+ years",
+          "technologies": ["Team Management", "Project Coordination", "Technical Leadership"],
+          "capabilities": [
+            "Led detailed engineering design teams for major port projects",
+            "Coordinated multidisciplinary engineering teams",
+            "Managed project deliverables and timelines"
+          ],
+          "relatedExperience": ["exp-3"],
+          "proficiency": 85
+        },
+        {
+          "name": "Teaching & Training",
+          "icon": "book",
+          "experience": "3+ years",
+          "technologies": ["Curriculum Development", "Lecturing", "Mentoring"],
+          "capabilities": [
+            "Lectured geotechnical courses at UNIKOM",
+            "Developed curriculum for civil engineering program",
+            "Mentored students in geotechnical design projects"
+          ],
+          "relatedExperience": ["exp-2"],
+          "relatedEducation": ["edu-1"],
+          "proficiency": 80
+        },
+        {
+          "name": "Certified Professional",
+          "icon": "award",
+          "experience": "7+ years",
+          "technologies": ["HATTI Certification", "LPJK Accreditation", "G1 Level"],
+          "capabilities": [
+            "Ahli Geoteknik Madya (G1) certified by HATTI/LPJK",
+            "Professional certification issued and renewed in 2018 and 2024",
+            "Recognized intermediate-level geotechnical engineering expertise"
+          ],
+          "relatedExperience": ["exp-1", "exp-2", "exp-3"],
+          "relatedEducation": ["edu-1", "edu-2"],
+          "proficiency": 100
+        }
+      ]
+    }
+  ]
+}

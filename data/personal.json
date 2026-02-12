@@ -1,0 +1,20 @@
+{
+  "name": "Sherly Meiwa, ST., MT",
+  "title": "Geotechnical Engineer & Lecturer",
+  "tagline": "Building Strong Foundations for the Future",
+  "bio": "Geotechnical Engineer with Ahli Geoteknik Madya (G1) certification. Specializing in soil-structure interaction, foundation design, and geotechnical analysis. Currently working at PT LAPI ITB and teaching at Universitas Komputer Indonesia (UNIKOM).",
+  "avatar": "/images/profile/avatar.png",
+  "resumeUrl": "/resume-full.pdf",
+  "siteLogo": "Sherly",
+  "description": "Personal portfolio showcasing projects and blog posts of Sherly Meiwa, a Geotechnical Engineer and Lecturer.",
+  "url": "https://sherlymeiwa.github.io",
+  "ogImage": "/images/og-image.jpg",
+  "twitterHandle": "@shemeiwa",
+  "whatsappNumber": "6285722913717",
+  "whatsappDefaultMessage": "Hi! I found your portfolio and would like to connect.",
+  "socialLinks": {
+    "email": "meiwasherlycivil@gmail.com",
+    "whatsapp": "6285722913717"
+  },
+  "location": "Bandung, West Java, Indonesia"
+}
