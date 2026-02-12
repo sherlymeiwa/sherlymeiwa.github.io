@@ -1,3 +1,11 @@
 {
-  "trainer": []
+  "trainer": [
+    {
+      "id": "training-1",
+      "title": "Sertifikasi BNSP+LPJK Teknisi Geoteknik Jenjang 6",
+      "organization": "BNSP+LPJK",
+      "date": "2023-01",
+      "type": "trainer"
+    }
+  ]
 }
