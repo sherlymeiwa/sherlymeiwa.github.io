@@ -16,7 +16,8 @@
           ],
           "relatedExperience": ["exp-1", "exp-3"],
           "relatedEducation": ["edu-1"],
-          "proficiency": 90
+          "proficiency": 90,
+          "tags": ["foundation", "deep-foundation", "piled-raft", "bored-piles", "driven-piles", "structural-design"]
         },
         {
           "name": "PLAXIS 2D",
@@ -30,7 +31,8 @@
           ],
           "relatedExperience": ["exp-1", "exp-3"],
           "relatedEducation": ["edu-1"],
-          "proficiency": 90
+          "proficiency": 90,
+          "tags": ["plaxis", "finite-element", "modeling", "deformation", "stability", "soil-modeling", "software"]
         },
         {
           "name": "Dynamic Analysis",
@@ -44,7 +46,8 @@
           ],
           "relatedExperience": ["exp-1"],
           "relatedEducation": ["edu-1"],
-          "proficiency": 70
+          "proficiency": 70,
+          "tags": ["dynamic", "seismic", "soil-structure", "loading", "vibration", "analysis"]
         },
         {
           "name": "ABAQUS 3D",
@@ -58,7 +61,8 @@
           ],
           "relatedExperience": ["exp-1"],
           "relatedEducation": ["edu-1"],
-          "proficiency": 70
+          "proficiency": 70,
+          "tags": ["abaqus", "3d-modeling", "finite-element", "nonlinear", "advanced-modeling", "software"]
         }
       ]
     },
@@ -78,7 +82,8 @@
           ],
           "relatedExperience": ["exp-5"],
           "relatedEducation": ["edu-1", "edu-2"],
-          "proficiency": 90
+          "proficiency": 90,
+          "tags": ["laboratory", "soil-mechanics", "triaxial", "consolidation", "direct-shear", "testing", "quality-control"]
         }
       ]
     },
@@ -98,7 +103,8 @@
           ],
           "relatedExperience": ["exp-3"],
           "relatedEducation": ["edu-1"],
-          "proficiency": 85
+          "proficiency": 85,
+          "tags": ["ports", "marine", "coastal", "infrastructure", "design", "geotechnics"]
         },
         {
           "name": "Soil Improvement",
@@ -112,7 +118,8 @@
           ],
           "relatedExperience": ["exp-1", "exp-3"],
           "relatedEducation": ["edu-1", "edu-2"],
-          "proficiency": 85
+          "proficiency": 85,
+          "tags": ["soil-improvement", "pvd", "ground-improvement", "soft-soil", "treatment", "drainage"]
         }
       ]
     },
@@ -131,7 +138,8 @@
             "Managed project deliverables and timelines"
           ],
           "relatedExperience": ["exp-3"],
-          "proficiency": 85
+          "proficiency": 85,
+          "tags": ["leadership", "management", "team-lead", "coordination", "project-management"]
         },
         {
           "name": "Teaching & Training",
@@ -145,7 +153,8 @@
           ],
           "relatedExperience": ["exp-2"],
           "relatedEducation": ["edu-1"],
-          "proficiency": 80
+          "proficiency": 80,
+          "tags": ["teaching", "training", "lecturing", "curriculum", "mentoring", "education"]
         },
         {
           "name": "Certified Professional",
@@ -159,7 +168,8 @@
           ],
           "relatedExperience": ["exp-1", "exp-2", "exp-3"],
           "relatedEducation": ["edu-1", "edu-2"],
-          "proficiency": 100
+          "proficiency": 100,
+          "tags": ["certification", "hatti", "lpjk", "g1", "professional", "accreditation"]
         }
       ]
     }

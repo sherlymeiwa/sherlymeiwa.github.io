@@ -10,7 +10,8 @@
       "startDate": "2022-01",
       "endDate": "2024-12",
       "featured": true,
-      "category": "infrastructure"
+      "category": "infrastructure",
+      "tags": ["infrastructure", "port", "marine", "geotechnical", "design", "team-lead", "papua", "featured"]
     },
     {
       "id": "project-2",
@@ -22,7 +23,8 @@
       "startDate": "2021-01",
       "endDate": "2022-12",
       "featured": true,
-      "category": "infrastructure"
+      "category": "infrastructure",
+      "tags": ["infrastructure", "port", "marine", "geotechnical", "design", "team-lead", "maluku", "featured"]
     },
     {
       "id": "project-3",
@@ -31,7 +33,8 @@
       "expertise": ["Soil Investigation", "Geotechnical Analysis"],
       "organization": "PT Meta Bumi Systema",
       "startDate": "2025-01",
-      "category": "geotechnical"
+      "category": "geotechnical",
+      "tags": ["geotechnical", "soil-investigation", "analysis", "merauke", "papua"]
     },
     {
       "id": "project-4",
@@ -40,7 +43,8 @@
       "expertise": ["Geotechnical Analysis", "Feasibility Study"],
       "organization": "PT Meta Bumi Systema",
       "startDate": "2025-01",
-      "category": "mining"
+      "category": "mining",
+      "tags": ["mining", "feasibility", "geotechnical", "alumina", "survey"]
     },
     {
       "id": "project-5",
@@ -49,7 +53,8 @@
       "expertise": ["Geotechnical Analysis", "Feasibility Study"],
       "organization": "PT Meta Bumi Systema",
       "startDate": "2025-01",
-      "category": "mining"
+      "category": "mining",
+      "tags": ["mining", "smelter", "feasibility", "geotechnical", "alumina", "survey"]
     },
     {
       "id": "project-6",
@@ -58,7 +63,8 @@
       "expertise": ["Permeability Testing", "Soil Analysis"],
       "organization": "PT Meta Bumi Systema",
       "startDate": "2025-01",
-      "category": "infrastructure"
+      "category": "infrastructure",
+      "tags": ["infrastructure", "dam", "permeability", "testing", "water", "lampung"]
     },
     {
       "id": "project-7",
@@ -68,7 +74,8 @@
       "organization": "PT Meta Bumi Systema",
       "startDate": "2024-01",
       "endDate": "2024-12",
-      "category": "building"
+      "category": "building",
+      "tags": ["building", "healthcare", "hospital", "soil-investigation", "foundation", "west-java"]
     },
     {
       "id": "project-8",
@@ -78,7 +85,8 @@
       "organization": "PT Meta Bumi Systema",
       "startDate": "2024-01",
       "endDate": "2024-12",
-      "category": "infrastructure"
+      "category": "infrastructure",
+      "tags": ["infrastructure", "cable", "utilities", "soil-investigation", "cirebon"]
     },
     {
       "id": "project-9",
@@ -88,7 +96,8 @@
       "organization": "PT Meta Bumi Systema",
       "startDate": "2024-01",
       "endDate": "2024-12",
-      "category": "building"
+      "category": "building",
+      "tags": ["building", "education", "campus", "soil-investigation", "foundation", "karawang"]
     },
     {
       "id": "project-10",
@@ -98,7 +107,8 @@
       "organization": "PT Meta Bumi Systema",
       "startDate": "2024-01",
       "endDate": "2024-12",
-      "category": "building"
+      "category": "building",
+      "tags": ["building", "education", "training", "soil-investigation", "foundation", "jakarta"]
     },
     {
       "id": "project-11",
@@ -108,7 +118,8 @@
       "organization": "PT Meta Bumi Systema",
       "startDate": "2024-01",
       "endDate": "2024-12",
-      "category": "industrial"
+      "category": "industrial",
+      "tags": ["industrial", "oil-and-gas", "tank", "soil-investigation", "foundation", "pertamina", "cirebon"]
     },
     {
       "id": "project-12",
@@ -117,7 +128,8 @@
       "expertise": ["Soil Investigation", "Soil Analysis"],
       "organization": "PT Meta Bumi Systema",
       "startDate": "2025-01",
-      "category": "infrastructure"
+      "category": "infrastructure",
+      "tags": ["infrastructure", "bridge", "pedestrian", "soil-investigation", "jakarta"]
     },
     {
       "id": "project-13",
@@ -126,7 +138,8 @@
       "expertise": ["Soil Investigation", "Foundation Design"],
       "organization": "PT Meta Bumi Systema",
       "startDate": "2025-01",
-      "category": "building"
+      "category": "building",
+      "tags": ["building", "government", "office", "soil-investigation", "foundation", "jakarta"]
     }
   ]
 }

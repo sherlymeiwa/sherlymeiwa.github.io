@@ -12,7 +12,8 @@
       "achievements": [
         "Thesis on soil-structure interaction in piled raft foundation systems under dynamic loads",
         "Conducted advanced research in geotechnical engineering"
-      ]
+      ],
+      "tags": ["master", "geotechnical", "research", "thesis", "soil-structure", "dynamic-analysis", "graduate"]
     },
     {
       "id": "edu-2",
@@ -26,7 +27,8 @@
       "achievements": [
         "Final thesis on soil improvement methods using Vertical drain (PVD)",
         "Graduated with good academic standing"
-      ]
+      ],
+      "tags": ["bachelor", "civil-engineering", "soil-improvement", "undergraduate", "thesis"]
     }
   ],
   "certifications": [
@@ -38,7 +40,8 @@
       "expiryDate": "2028-01",
       "credentialId": null,
       "visible": true,
-      "description": "Intermediate-level geotechnical engineering certification. Originally issued in 2018 and renewed in 2024."
+      "description": "Intermediate-level geotechnical engineering certification. Originally issued in 2018 and renewed in 2024.",
+      "tags": ["certification", "geotechnical", "professional", "hatti", "lpjk", "g1"]
     }
   ]
 }

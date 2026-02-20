@@ -2,40 +2,61 @@
   "experiences": [
     {
       "id": "exp-0",
-      "company": "PT Meta Bumi Systema",
-      "position": "Geotechnical Expert",
+      "company": "PT Sinomine Exploration and Surveying Technology Indonesia",
+      "position": "Senior Geotechnical Engineer – Analysis Specialist",
       "location": "Indonesia",
       "type": "full-time",
       "startDate": "2024-01",
       "endDate": null,
       "current": true,
+      "description": "Perform detailed geotechnical analysis and interpretation of subsurface conditions using integrated field investigation and laboratory testing data for port, mining, and smelter projects.",
+      "achievements": [
+        "Develop and execute numerical modeling in PLAXIS for settlement, slope stability, consolidation, and soil–structure interaction",
+        "Deliver analytical geotechnical assessment and technical recommendations focusing on soil behavior, deformation, and stability",
+        "Evaluate ground response and foundation behavior for complex project sites",
+        "Conduct geotechnical risk evaluation for port, mining, and smelter projects"
+      ],
+      "expertise": ["Geotechnical Analysis", "Numerical Modeling", "PLAXIS", "Slope Stability", "Settlement Analysis", "Soil-Structure Interaction", "Risk Assessment"],
+      "tags": ["geotechnical", "analysis", "modeling", "plaxis", "mining", "infrastructure", "senior-level", "current"]
+    },
+    {
+      "id": "exp-1",
+      "company": "PT Meta Bumi Systema",
+      "position": "Geotechnical Expert",
+      "location": "Indonesia",
+      "type": "full-time",
+      "startDate": "2023-01",
+      "endDate": "2025-12",
+      "current": false,
       "description": "Geotechnical expert analyzing field and laboratory soil investigation results for various construction projects across Indonesia.",
       "achievements": [
         "Analyzed soil investigation results for hospital projects in West Java",
         "Conducted geotechnical analysis for infrastructure projects including bridges and office buildings",
         "Performed soil investigation for industrial facilities including Pertamina tank projects"
       ],
-      "expertise": ["Geotechnical Analysis", "Soil Investigation", "Foundation Design", "Laboratory Testing"]
+      "expertise": ["Geotechnical Analysis", "Soil Investigation", "Foundation Design", "Laboratory Testing"],
+      "tags": ["geotechnical", "soil-investigation", "foundation", "consulting", "healthcare", "industrial", "current"]
     },
     {
-      "id": "exp-1",
+      "id": "exp-2",
       "company": "PT LAPI ITB",
       "position": "Geotechnical Engineer",
       "location": "Indonesia",
       "type": "full-time",
-      "startDate": "2021-01",
-      "endDate": null,
-      "current": true,
+      "startDate": "2019-01",
+      "endDate": "2022-12",
+      "current": false,
       "description": "Geotechnical Engineer performing design and analysis for various projects including mining construction and infrastructure development.",
       "achievements": [
         "Performing geotechnical design and analysis for various projects",
         "Conducting soil investigation and foundation design",
         "Providing expert consultation on geotechnical engineering"
       ],
-      "expertise": ["Geotechnical Analysis", "Foundation Design", "Soil Mechanics"]
+      "expertise": ["Geotechnical Analysis", "Foundation Design", "Soil Mechanics"],
+      "tags": ["geotechnical", "mining", "infrastructure", "design", "consulting", "current"]
     },
     {
-      "id": "exp-2",
+      "id": "exp-3",
       "company": "Universitas Komputer Indonesia (UNIKOM)",
       "position": "Lecturer",
       "location": "Bandung, Indonesia",
@@ -49,10 +70,11 @@
         "Developing curriculum for civil engineering program",
         "Mentoring students in geotechnical design projects"
       ],
-      "expertise": ["Teaching", "Geotechnical Engineering", "Civil Engineering"]
+      "expertise": ["Teaching", "Geotechnical Engineering", "Civil Engineering"],
+      "tags": ["education", "teaching", "curriculum", "mentoring", "geotechnical", "civil-engineering", "academic"]
     },
     {
-      "id": "exp-3",
+      "id": "exp-4",
       "company": "PT BAHARI JAYA SEJAHTERA",
       "position": "Team Leader & Geotechnical Expert",
       "location": "Indonesia",
@@ -66,10 +88,11 @@
         "Team Leader for Detailed Engineering Design of Lerokis Port, Maluku Province (2021-2022)",
         "Provided geotechnical expertise for port infrastructure projects"
       ],
-      "expertise": ["Port Design", "Geotechnical Engineering", "Project Leadership"]
+      "expertise": ["Port Design", "Geotechnical Engineering", "Project Leadership"],
+      "tags": ["infrastructure", "ports", "marine", "leadership", "team-lead", "geotechnical", "design"]
     },
     {
-      "id": "exp-4",
+      "id": "exp-5",
       "company": "PT LAPI ITB",
       "position": "Geotechnical Engineer",
       "location": "Bandung, Indonesia",
@@ -83,10 +106,11 @@
         "Conducted geotechnical investigations and analysis",
         "Developed foundation design recommendations"
       ],
-      "expertise": ["Geotechnical Analysis", "Mining Engineering", "Foundation Design"]
+      "expertise": ["Geotechnical Analysis", "Mining Engineering", "Foundation Design"],
+      "tags": ["mining", "geotechnical", "design", "analysis", "foundation"]
     },
     {
-      "id": "exp-5",
+      "id": "exp-6",
       "company": "PT ZIFA ENGINEERING",
       "position": "Head of Soil Mechanics Laboratory",
       "location": "Indonesia",
@@ -100,7 +124,8 @@
         "Supervised soil mechanics testing and quality control",
         "Managed laboratory team and ensured test accuracy"
       ],
-      "expertise": ["Soil Mechanics", "Laboratory Testing", "Quality Control"]
+      "expertise": ["Soil Mechanics", "Laboratory Testing", "Quality Control"],
+      "tags": ["laboratory", "soil-mechanics", "quality-control", "testing", "management", "leadership"]
     }
   ]
 }
